@@ -28,4 +28,30 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
    ![Launch Unreal Engine](EngineLaunch.jpg)
 2. Launch Unreal Engine.
 
+#### Create a Project
 
+1. Select **Film, Television, and Live Events**
+2. Choose **Blank Template**
+3. Name your project.
+   ![Launch Unreal Engine](EngineLaunch.jpg)
+4. Click **Create Project**
+
+### 2. Interface
+
+1. Content Browser
+2. World Outliner
+3. Viewport
+4. Details
+5. Place Actors
+
+### 3. Movement Controls
+
+**Summary:** In Unreal Engine, movement works like most PC games. The mouse controls where the camera looks, and the WASD keys control the movement.
+
+#### Looking Left, Right, Up, and Down
+
+1. **Hold Right Click** in the Viewport.
+
+### 4. Placing Actors
+
+**Summary:** An actor is any object that can be placed into a level. A Level is a workspace that contains everything that can be seen and interacted with. A blank project automatically starts you out with a level titled Main.
