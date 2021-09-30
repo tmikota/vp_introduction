@@ -1,4 +1,4 @@
-## **Beginner Lesson:** Your First Session in Unreal Engine
+# Beginner Lesson: Your First Session in Unreal Engine
 
 ## Overview:
 1. Launching Unreal Engine
@@ -9,7 +9,7 @@
 
 ## Video:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/sMWF8iQyhCE/0.jpg)](https://youtu.be/sMWF8iQyhCE "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/83rNu-rX8O8/0.jpg)](https://youtu.be/83rNu-rX8O8 "Beginner Lesson")
 
 ## Details:
 
@@ -94,6 +94,8 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
    ![Scale](17scaleaxis.PNG)
 4. To scale the actor on all sides simultaneously, click the center cube and drag outwards.
    ![Scale](18CenterScale.PNG)
+   
+**Quick Tip:** Undo with **CTRL Z** and Redo with **CTRL Y**.   
 
 ### Downloading from the Marketplace
 
