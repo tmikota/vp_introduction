@@ -1,5 +1,6 @@
 IntroductionToUnrealEngine.md
 Lesson1.md
+Lesson2.md
 chapter1.txt
 chapter2.txt
 chapter3.docx
