@@ -1,6 +1,7 @@
-# Beginner Lesson: Your First Session in Unreal Engine
+# Lesson 1: Your First Session in Unreal Engine
 
 ## Overview:
+
 1. Launching Unreal Engine
 2. Interface
 3. Movement Controls
@@ -15,20 +16,20 @@
 
 ### 1. Launching Unreal Engine
 
-Summary: While Unreal Engine is used to make games such as Fortnite, it is also a popular application for 3D animation. For this tutorial series, the focus will be on film and animation.
+**Summary:** While Unreal Engine is used to make games such as Fortnite, it is also a popular application for 3D animation. For this tutorial series, the focus will be on film and animation.
 
-#### Open the Epic Games Launcher
+**Open the Epic Games Launcher**
 
 1. Create an Epic Games Account (If you don't already have it)
 2. [install the Epic Games Launcher](https://www.epicgames.com/store/en-US/download).
 
-#### Open Unreal Engine
+**Open Unreal Engine**
 
 1. Download the latest version of Unreal Engine.
    ![Launch Unreal Engine](1EngineLaunch.png)
 2. Launch Unreal Engine.
 
-#### Create a Project
+**Create a Project**
 
 1. Select **Film, Television, and Live Events**
    ![Film, Television, and Live Events](2Film.PNG)
@@ -55,12 +56,12 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
 
 **Summary:** In Unreal Engine, movement works like most PC games. The mouse controls where the camera looks, and the WASD keys control the movement.
 
-#### Looking Left, Right, Up, and Down
+**Looking Left, Right, Up, and Down**
 
 1. **Hold Right Click** in the Viewport.
 2. Drag the mouse in any direction.
 
-#### Moving
+**Moving**
 
 1. Hold Right Click in the Viewport.
 2. Move with WASD.
@@ -70,7 +71,7 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
 
 **Summary:** An actor is any object that can be placed into a level. A Level is a workspace that contains everything that can be seen and interacted with. A blank project automatically starts you out with a level titled Main.
 
-#### Transform a Cube
+**Transform a Cube**
 
 1. In the Place Actors window, click and drag a **Cube** into the Viewport.
    ![Cube](11CubeSelect.PNG)
@@ -78,14 +79,14 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
    ![Transform Cube](13TransformCube.PNG)
 3. Hold left click on the **blue arrowhead** and drag UP to move the actor along the Z axis.
 
-#### Rotate a Cube
+**Rotate a Cube**
 
 1. With the actor selected, **press E** on the keyboard.
    ![Press E](14E.PNG)
 2. **Left click and drag** the red, green, or blue arcs to rotate the actor.
    ![Rotate the Cube](15Rotate.PNG)
    
-#### Scale a Cube
+**Scale a Cube**
 
 1. With the actor selected, press R on the keyboard.
    ![Press R](16r.PNG)
@@ -101,7 +102,7 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
 
 **Summary:** Many free assets can be downloaded from the Marketplace in the Epic Games Launcher. The Animation Starter Pack will give us the default UE4 Mannequin. Putting the mannequin in your level can give you a reference for how you scale the rest of your environment.
 
-#### Download the Animation Starter Pack
+**Download the Animation Starter Pack**
 
 1. Epic Games Launcher > Unreal Engine Marketplace
 2. Search **Animation Starter Pack**.
@@ -109,7 +110,7 @@ Summary: While Unreal Engine is used to make games such as Fortnite, it is also 
 3. Download and **Add to Project**.
    ![Animation Starter Pack](20starterpack.PNG)
 
-#### Add a UE4 Mannequin to the Level
+**Add a UE4 Mannequin to the Level**
 
 1. Return to Unreal Engine
 2. Content Browser > AnimationStarterPack > UE4_Mannequin > Mesh > SK_Mannequin
